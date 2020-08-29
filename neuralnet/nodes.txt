@@ -1,0 +1,20 @@
+In:
+eye1r
+eye1g
+eye1b
+eye1seesBug
+eye2r
+eye2g
+eye2b
+eye2seesBug
+Memory
+
+Out:
+Move fwd
+Rotate
+rcolor
+gcolor
+bcolor
+eye1dist
+eye2dist
+Memory
